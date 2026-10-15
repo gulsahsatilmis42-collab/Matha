@@ -1,0 +1,6 @@
+{
+  "name": "Sayılar Ülkesi - Maarif Modeli Matematik",
+  "description": "Türkiye Yüzyılı Maarif Modeli 5. Sınıf Matematik: Doğal Sayılar, Milyonlar, Bölükler, Yuvarlama, Zihinden İşlemler ve Sokratik AI Studio Rehberi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
